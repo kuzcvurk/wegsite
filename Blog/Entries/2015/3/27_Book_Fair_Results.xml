@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20150524" date="2015-05-24 15:09:19 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This past weekend Sean and I traveled to Charlottesville, VA for their annual book fair. I had a table in the hotel lobby with many other authors and writing related companies. It was quite a learning experience.&#xD;&#xD;The biggest problem is getting people to figure out what you're all about in about a 2 second glance. My book covers don't necessarily inflict "sci-fi" into people's minds, even with the starry background and distinctly tech looking wireframe objects. About 10 minutes after setting up our table, Sean made a small sign that said "sci-fi". It caught the attention of a few people ("Ooh, sic-fi!") but for the most part we still had to try and engage the person as they walked by:&#xD;&#xD;"Hello! Do you like sci-fi?"&#xD;&#xD;"No, sorry." "No, but my grandson does." (Got that one quite often. Apparently Charlottesville is full of older women with techy grandsons.) "I can't even figure out my TV." "Yes!"&#xD;&#xD;Aha! My target audience! All 20 of them!&#xD;&#xD;For the amount of people who actually stopped at my table to talk and find out more about the book, I'd say 30% purchased a book. Of those who didn't, a few took cards to check out my website later, or &lt;a href="newsletter_signup.html"&gt;signed up for my monthly newsletter&lt;/a&gt;. A bunch of people had freebies to lure folks in. I'm not a fan of freebies, since I've been to plenty a convention where people just scout tables for free stuff with no intention of engaging any of the vendors. However I do think giving something away with any book purchase is a smart idea. Sean and I were toying with a logo for Lancing Electronics that we could turn into mugs and such. I'm not a fan of taking your book cover and merely slapping it on merchandise. I don't think I've ever seen a book cover that would itself well to that sort of object. The sole exception perhaps being "Hitchhiker's Guide To the Galaxy".&#xD;&#xD;Another idea we had was doing a dramatic interpretation of my book every half hour or so. It would seriously be hilarious.&#xD;&#xD;So to summarize what I learned:&#xD;&#xD;1. Find some way to grab people's attention.&#xD;2. Find ways to reach a more targeted audience.&#xD;3. Free stuff!&#xD;&#xD;All in all, it was a great experience, and probably a good starter for me.&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 27, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_Book_Fair_Results_files/shapeimage_2.png" left="0px" top="0px" width="212px" height="315px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Book Fair Results</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20150327" date="2015-03-27 15:51:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Some exciting news! Tomorrow I will be participating in my first book fair. It&#x2019;s taking place in the Omni Hotel in Charlottesville, VA. I have a table and copies of my book and business cards and everything. It&#x2019;s almost like I&#x2019;m a professional!&#xD;&#xD;Sean has produced the first version of my cover, as you can see to the left. We&#x2019;re sticking with the sphere and wireframe against a starry background theme. The finished version will be very similar. The &#x201C;Fall 2015&#x201D; banner will be gone. And there will be a back side. But otherwise, it&#x2019;s basically the same. Maybe some tweaking of the lights. Maybe not. Probably not. I mean, you can tell it&#x2019;s a hand, right? Maybe.&#xD;&#xD;In other exciting news, I left my book on the shelf of a local coffeehouse and someone has taken it. I hope to read it, and not use it for kindling or something. And person, if you&#x2019;ve found your way to this page from the link on the back cover, Hi! And if you enjoyed it, please leave me a review on Amazon: &lt;a href="http://www.amazon.com/dp/B00RM1MMDS"&gt;http://www.amazon.com/dp/B00RM1MMDS&lt;/a&gt;   And if you hated it, I&#x2019;m sorry, and the next book will be better. I promise. It made me cry. For good reasons.&#xD;&#xD;Speaking of that. The first draft is out for feedback! Work is moving along, so I&#x2019;m hopeful that Fall 2015 banner will not be a lie. &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 20, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Book_Fair_files/shapeimage_2.png" left="0px" top="0px" width="211px" height="308px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Book Fair</richText>
+  </textBox>
+</content>

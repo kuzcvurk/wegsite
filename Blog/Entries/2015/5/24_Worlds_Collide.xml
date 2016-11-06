@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20150524" date="2015-05-24 15:09:56 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>My day job (the one that actually makes me money) is as an electrical engineer. Day to day, I write programs, design embedded systems, run field tests and such. Sometimes I have to purchase equipment from companies. I recently had a rather pleasant and lengthy email exchange with one such company, when I purchased one of their boards and had to exchange it for another (my own fault, not theirs). While nailing down the details for the exchange, their lovely salesperson mentioned finding a book called &#x201C;The Sphere&#x201D; on Amazon, and wondered if I was the same Michelle McBeth. Indeed I was! They were very excited by the summary of it, and downloaded it that very day.&#xD;&#xD;I found the whole thing exciting and just a little unsettling. I consider my book to be part of my personal life, and I tend to keep my personal life rather separate from my work. It&#x2019;s part of the reason no coworker has ever seen me in a play, and probably never will. It&#x2019;s also why I haven&#x2019;t talked about my book much at work. Very few people at this point even know about it. It&#x2019;s the opposite of good marketing tactics.&#xD;&#xD;I assume this hesitation on my part has to do with a desire to keep a professional impression of myself upon the people I work with. I&#x2019;ve always been very reserved with my emotions, and acting and writing this book definitely breech that boundary. The book a little less so than acting. My father recently commented that he couldn&#x2019;t read my book without picturing me as Adelaide. It makes sense, since the character is slightly autobiographical. Then I realized it&#x2019;s a good thing my sister Heather&#x2019;s book is geared towards teens. I can&#x2019;t imagine what my father would think reading the end of &#x201C;The Ghost in my Bedroom&#x201D; and picturing her. The end of the book was disturbing and upsetting. Frankly, I cried, because I couldn&#x2019;t help but not picture my sister. In that sense, I think she is incredibly brave in her story choices.&#xD;&#xD;The idea of one day being famous terrifies me. It&#x2019;s strange, since I&#x2019;m perfectly comfortable performing in front of people (normal stage jitters aside). In grad school I became very adept at giving presentations on my research, and know how to work a room very well. But in both of these situations, it&#x2019;s not me. It&#x2019;s my work personae. It&#x2019;s the character I&#x2019;m playing.&#xD;&#xD;And it&#x2019;s exhausting.&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, May 24, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Worlds_Collide_files/shapeimage_2.png" left="0px" top="0px" width="212px" height="307px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Worlds Collide</richText>
+  </textBox>
+</content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Michelle McBeth</title>
+    <link>http://michellemcbeth.com/michellemcbeth.com/My_Albums/My_Albums.html</link>
+    <description>
+￼</description>
+    <item>
+      <title>Gingerbread Photos</title>
+      <link>http://michellemcbeth.com/michellemcbeth.com/My_Albums/Pages/Gingerbread_Photos.html</link>
+      <guid isPermaLink="false">25e9ff75-4d02-408a-a9c7-27ae9e3457ac</guid>
+    </item>
+    <item>
+      <title>Eye Photos</title>
+      <link>http://michellemcbeth.com/michellemcbeth.com/My_Albums/Pages/Eye_Photos.html</link>
+      <guid isPermaLink="false">fa359bf4-dfa6-4496-a8a2-8bcf751b49b8</guid>
+    </item>
+  </channel>
+</rss>
