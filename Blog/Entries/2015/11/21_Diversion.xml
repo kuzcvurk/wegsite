@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20170319" date="2017-03-19 15:02:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x201D;The Children of Doctor Lancing&#x201D; is just days away from being published! Final interior formatting is done, and I&#x2019;m just waiting on the final cover now, designed by &#xD;&lt;--- this guy.&#xD;&#xD;If you&#x2019;re looking for a way to kill time while you wait, go check out his &lt;a href="http://codepen.io/SeanMcBeth/"&gt;CodePen&lt;/a&gt; page. CodePen is like Nanowrimo for coding. Every day in November he has to create a program. Some of them are silly, some of them are quite fun. Some of them are actually amazing tools disguised as fun little apps. Go check it out!&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 21, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Diversion</richText>
+  </textBox>
+</content>

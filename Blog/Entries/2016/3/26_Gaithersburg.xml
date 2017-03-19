@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20170319" date="2017-03-19 15:02:23 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Yesterday was the Gaithersburg Book Festival. I was really pleased to get a spot again this year since it went so well for me last year. Even with the horrid weather and an infant in tow, it was a good time. I met some very nice people and got a few questions that really challenged me. I also have to thank my mother-in-law (back there with Sheffield) for helping out yesterday, and my husband (taking the selfie) for his awesome sales work. Though the tactic of yelling &#x201C;Time Travel&#x201D; at people walking by seemed to startle them more than get them to stop at the table.&#xD;&#xD;On the right there is the concept of the cover for book number 3 in The Sphere Saga, tentatively titled &#x201C;The Lunar Conspiracy&#x201D;. Since so many people purchased copies of my books yesterday, I&#x2019;m going to extend the character name contest out a few more months. So if you read one of my books and &lt;a href="perma://BLPageReference/002FF14A-F160-4141-9735-200733D48359"&gt;write a review&lt;/a&gt; before September, let me know!&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, March 26, 2016&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Gaithersburg</richText>
+  </textBox>
+</content>

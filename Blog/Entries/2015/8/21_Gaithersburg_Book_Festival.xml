@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20170319" date="2017-03-19 15:02:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Gaithersburg Book Festival was a huge success, even considering it had to end an hour early due to a massive thunderstorm that rolled in. The picture above is from the start of the day. As you can see, I&#x2019;m looking a lot more like a real writer. I&#x2019;ve got a banner with my own logo and website on it!&#xD;&#xD;My husband and I took to heart a few of the things we learned from Charlottesville, and one of the best additions was the &#x201C;Sci-Fi! Time Travel!&#x201D; sign. It was probably the biggest draw of people to our table. In fact one woman came up and without waiting for us to say hello, she said &#x201C;Sci-fi, time travel? Sold!&#x201D; Easiest sale of the day.&#xD;&#xD;The books were flying off the table! I sold of out stock in about 5 hours, keeping one on hand just so people could look at something. I also learned to tailor my pitch depending on the person. A young woman? &#x201C;Hey, want to read about a woman who works for a secret lab that sends her back in time to solve mysteries?!&#x201D; Sean made sure I played up the fact that my protagonist is a woman.&#xD;&#xD;It was a much better experience than Charlottesville. Part of that seemed to be the crowd-I guess the DC area has more sci-fi readers. It definitely helps to have a second person around. There were a few times that I got into lengthy conversations with one person, but Sean was able to continue selling the book as I was engaged.&#xD;&#xD;Sadly it seems like the season of book festival that I can participate in has ended. I&#x2019;ll have to start looking earlier next year.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, August 21, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Gaithersburg Book Festival</richText>
+  </textBox>
+</content>

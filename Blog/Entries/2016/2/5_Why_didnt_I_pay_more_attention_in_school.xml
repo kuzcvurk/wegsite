@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20170319" date="2017-03-19 15:02:23 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The rough thing about writing science fiction is that it involves a lot of science along with the fiction.&#xD;&#xD;I realize that sounds like an obvious statement, but think about what that actually means. If I want to be the type of author I&#x2019;d respect, it means lots and lots of research.&#xD;&#xD;I&#x2019;m working on a short story that involves me understanding some amount of chemistry. I took chemistry in high school. I mostly coasted through on projects and extra credit. I got the basic concepts, but I never really paid them much attention.&#xD;&#xD;Now that I&#x2019;ve been looking into it again, I think I could have liked chemistry if I&#x2019;d given it a better chance. It&#x2019;s like a jigsaw puzzle with strange rules. See that picture? That&#x2019;s chlorophyll. Check out that magnesium nitrogen structure in the middle. How cool is that?&#xD;&#xD;For some reason, most of the stories that come into mind involve fields of science other than electrical and computer engineering. You know, the field I&#x2019;d actually be able to write about without doing research. I suppose I should be happy to have reasons to be learning new things, but it&#x2019;s pretty irritating to sit down to write a story and have to stop every few paragraphs to look up things like the chemical composition of chlorophyll. I think what this means, is I actually need friends in each field of science that I can bounce ideas off of, instead of actually trying to figure this stuff out myself. Anyone out there a chemist?&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, February 5, 2016&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Why didn&#x2019;t I pay more attention in school?</richText>
+  </textBox>
+</content>
