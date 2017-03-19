@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20170319" date="2017-03-19 15:02:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>As you can see from the picture, and probably guess from the title of this blog post, I am pregnant. About 17 weeks pregnant, which you can probably figure out by inspecting the photo closely and doing some math.&#xD;&#xD;No, it hasn&#x2019;t been a smiles and roses. And I&#x2019;m immensely thankful to the friends who have been brutally honest about their pregnancies. If I had to go through the last 17 weeks thinking that everyone spends all 40 weeks glowing and rubbing their bellies, I&#x2019;d be pretty pissed in thinking I was getting a raw deal. As it is, it hasn&#x2019;t been horrible at all in comparison to some stories I&#x2019;ve heard, but there&#x2019;s plenty annoying and unpleasant things about it.&#xD;&#xD;I just finished reading a book by an acquaintance of mine, &#x201C;Feeling My Way: Finding Motherhood Without Loosing Myself&#x201D;. It was lovely and honest and funny and surprising. It&#x2019;s very interesting to hear the tale of someone who goes from ambivalence about having a child at all, to fiercely wanting to share every moment of life with her. Then comes the unexpected result of having an internal struggle to find a balance between motherhood and selfhood.&#xD;&#xD;It seems like for a lot of women (and some men) it&#x2019;s like a switch goes off and suddenly nothing else really matters. I have had a few friends for whom this didn&#x2019;t happen. Friends who were impatient to get back to work and normal life. I wonder which side I&#x2019;ll end up on.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, September 26, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Preggers</richText>
+  </textBox>
+</content>
