@@ -1,6 +1,6 @@
 .paragraph_style {
     color: rgb(88, 77, 77);
-    font-family: 'Helvetica-Oblique', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'HoeflerText-Italic', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: italic;
@@ -27,6 +27,47 @@
 }
 .paragraph_style_1 {
     color: rgb(88, 77, 77);
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_1 {
+    color: rgb(0, 0, 0);
+    line-height: 17px;
+    opacity: 1.00;
+}
+.style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Verdana', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13px;
+    opacity: 1.00;
+}
+.paragraph_style_2 {
+    color: rgb(88, 77, 77);
     font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 16px;
     font-stretch: normal;
@@ -46,25 +87,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_1 {
-    color: rgb(0, 0, 0);
-    line-height: 19px;
-    opacity: 1.00;
-}
-.style_2 {
-    color: rgb(0, 0, 0);
-    font-family: 'Verdana', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 13px;
-    opacity: 1.00;
 }
 .style_3 {
     color: rgb(34, 34, 34);
@@ -91,28 +113,6 @@
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
-}
-.paragraph_style_2 {
-    color: rgb(88, 77, 77);
-    font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 17px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
 }
 .style_SkipStroke_5 {
     background: transparent;
@@ -165,16 +165,16 @@
 .Normal {
     padding: 4px;
 }
+.Normal_External_307_381 {
+    position: relative;
+}
 .Normal_External_406_60 {
     position: relative;
 }
-.Normal_External_307_497 {
-    position: relative;
-}
-.Normal_External_345_388 {
-    position: relative;
-}
 .Normal_External_237_32 {
+    position: relative;
+}
+.Normal_External_307_370 {
     position: relative;
 }
 .Normal_External_308_33 {
