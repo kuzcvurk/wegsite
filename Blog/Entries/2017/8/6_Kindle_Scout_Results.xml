@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20170806" date="2017-08-06 12:12:54 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;So I didn&#x2019;t win again, but I got a fair amount out of my campaign. For one thing, I did get a few people interested enough in my series to buy my first book. Here&#x2019;s hoping for some good reviews.&#xD;&#xD;I&#x2019;m pleased that I wasn&#x2019;t immediately rejected. Last time I got my no-thank-you notice in about three days. This time it was almost two weeks. I&#x2019;d like to think that they were seriously considering it and not just all on vacation. Since I&#x2019;ll never know for sure, I choose to believe the former.&#xD;&#xD;I got about three times the page hits of my first campaign and an overwhelming 92% of those were people who simply found my book on KS and checked it out. Only 8% were people I sent the direct link to, begging for votes.&#xD;&#xD;As I suspected, by biggest hits were the last few days of my campaign. That seems to be the case with the hot &amp; trending list as well-books that are about to end their campaigns are the majority of the list. It makes sense, since you only get three votes.&#xD;&#xD;I can&#x2019;t bring myself to be too disappointed. I&#x2019;m apparently not the target audience of most scouters, and to be honest, some of the books that get selected look pretty crappy. I understand KS does put you through a round or two of professional editing, but I guess if you&#x2019;re starting from 50 Shades, it&#x2019;s hard to improve to Scarlet Letter.&#xD;&#xD;Oh well! Look for &#x201C;The Lunar Conspiracy&#x201D; in late August, 2017!&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, August 6, 2017&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kindle Scout Results</richText>
+  </textBox>
+</content>
