@@ -194,6 +194,23 @@ a:hover {
     color: rgb(173, 123, 18);
     text-decoration: none;
 }
+#widget6 .Comment_Posted_Date {
+    color: rgb(149, 138, 110);
+    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
 #widget0 a {
     color: rgb(173, 123, 18);
     text-decoration: none;
@@ -220,23 +237,6 @@ a:hover {
     letter-spacing: 0;
     line-height: 20px;
     opacity: 1.00;
-    text-decoration: none;
-    text-transform: none;
-}
-#widget6 .Comment_Posted_Date {
-    color: rgb(149, 138, 110);
-    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 17px;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    text-align: left;
     text-decoration: none;
     text-transform: none;
 }
@@ -269,6 +269,10 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: none;
 }
+#widget7 a {
+    color: rgb(173, 123, 18);
+    text-decoration: none;
+}
 .bumper {
     font-size: 1px;
     line-height: 1px;
@@ -285,21 +289,7 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-#id2 div.caption span.title {
-    color: rgb(173, 123, 18);
-    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 17px;
-    opacity: 1.00;
-    text-decoration: none;
-    text-transform: none;
-}
-#widget5 .Comment_Posted_Date {
+#widget7 .Comment_Posted_Date {
     color: rgb(149, 138, 110);
     font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 12px;
@@ -316,6 +306,24 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
+#widget7 a:visited {
+    color: rgb(88, 77, 77);
+    text-decoration: none;
+}
+#id2 div.caption span.title {
+    color: rgb(173, 123, 18);
+    font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 17px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: none;
+}
 #widget4 a:hover {
     color: rgb(33, 38, 0);
     text-decoration: underline;
@@ -323,6 +331,10 @@ a:hover {
 #widget5 a:visited {
     color: rgb(88, 77, 77);
     text-decoration: none;
+}
+#widget7 a:hover {
+    color: rgb(33, 38, 0);
+    text-decoration: underline;
 }
 #widget3 a:visited {
     color: rgb(88, 77, 77);

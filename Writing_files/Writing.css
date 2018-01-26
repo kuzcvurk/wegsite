@@ -47,10 +47,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_1 {
     color: rgb(0, 0, 0);
     line-height: 17px;
@@ -98,6 +94,106 @@
     line-height: 15px;
     opacity: 1.00;
 }
+.paragraph_style_3 {
+    color: rgb(149, 138, 110);
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(173, 124, 0);
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_4 {
+    color: rgb(17, 17, 17);
+    line-height: 17px;
+    opacity: 1.00;
+}
+.style_5 {
+    line-height: 17px;
+}
+.paragraph_style_5 {
+    color: rgb(88, 77, 77);
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_6 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 36px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
@@ -118,6 +214,32 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_7 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .Body {
     color: rgb(88, 77, 77);
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
@@ -134,6 +256,28 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Free_Form {
+    color: rgb(88, 77, 77);
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 2px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
@@ -165,19 +309,25 @@
 .Normal {
     padding: 4px;
 }
+.Normal_External_237_32 {
+    position: relative;
+}
 .Normal_External_307_381 {
+    position: relative;
+}
+.Normal_External_308_33 {
+    position: relative;
+}
+.Normal_External_307_382 {
+    position: relative;
+}
+.Normal_External_513_159 {
     position: relative;
 }
 .Normal_External_406_60 {
     position: relative;
 }
-.Normal_External_237_32 {
-    position: relative;
-}
-.Normal_External_307_370 {
-    position: relative;
-}
-.Normal_External_308_33 {
+.Normal_External_653_2893 {
     position: relative;
 }
 .Title {
@@ -218,6 +368,19 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_136_32 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_77_32 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 a {
     color: rgb(173, 123, 18);
     text-decoration: none;
@@ -225,6 +388,17 @@ a {
 a:visited {
     color: rgb(88, 77, 77);
     text-decoration: none;
+}
+a.class1 {
+    color: rgb(34, 34, 34);
+}
+a.class1:visited {
+    color: rgb(88, 77, 77);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(33, 38, 0);
+    text-decoration: underline;
 }
 a:hover {
     color: rgb(33, 38, 0);
