@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20180126
+// Created by iWeb 3.0.4 local-build-20180401
 
 function createMediaStream_id2()
 {return IWCreateMediaCollection("http://michellemcbeth.com/michellemcbeth.com/My_Albums/My_Albums_files/rss.xml",true,255,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}

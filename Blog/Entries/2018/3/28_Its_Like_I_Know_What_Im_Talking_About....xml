@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="6FC2B3E7-67AD-4FEB-B35E-19203ADD6156">
+  <lastEdited clientType="local-build-20180401" date="2018-04-01 12:58:20 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Michelle McBeth</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;This past Saturday was the monthly meeting of the Northern Virginia chapter of the Virginia Writers Club. I am the Membership Chair of our local chapter, which means I get to welcome new folks to the club and choose the snacks we get for our meetings. Let me just say, the snacks have been awesome.&#xD;&#xD;At the last minute the president asked me to talk about publishing on Amazon. Had I more time to organize I would&#x2019;ve brought my laptop and walked people through the process of publishing my third book: &#x201C;The Lunar Conspiracy&#x201D; since I was in the midst of doing that. As it was, I had a couple copies of my books and the anthology I was published in for people to see what sort of quality you get from CreateSpace. I walked them through the rough process of getting a print book published and answered a bunch of questions about the logistics/cost/etc.&#xD;&#xD;I thought it was a little too half-assed, but people seemed pleased to learn things, even the one guy who had already published on CreateSpace a few years ago.&#xD;&#xD;When it comes down to it, publishing on CreateSpace is really quite easy. There are enough walk-throughs and templates for anyone to do it in short order. The hardest part is just WRITING YOUR BOOK! So get to it.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, March 28, 2018&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>It&#x2019;s Like I Know What I&#x2019;m Talking About...</richText>
+  </textBox>
+</content>
