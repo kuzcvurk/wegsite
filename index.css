@@ -103,6 +103,12 @@ h2::after {
   width: 100%;
 }
 
+#mcform{
+  padding: 1.5em;
+  box-shadow: rgba(0,0,0,20%) 5px 5px 5px;
+  background-color: hsl(233.85deg 77.78% 91.18%);
+}
+
 @media screen{
   .print-only {
     display: none;
