@@ -1,0 +1,13 @@
+{
+  "version": "2.1.1",
+  "name": "michellemcbeth-com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": ""
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
